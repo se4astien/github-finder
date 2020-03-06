@@ -12,9 +12,12 @@ npm install
 npm start
 ```
 
-## Screenshots
-
-
 
 ## Online
 Web Application at this adress: https://github-finder-context-api.netlify.com/
+
+
+## Screenshots
+![](https://github.com/se4astien/github-finder/blob/master/screenshots/github-finder-01.png)
+![](https://github.com/se4astien/github-finder/blob/master/screenshots/github-finder-02.png)
+![](https://github.com/se4astien/github-finder/blob/master/screenshots/github-finder-03.png)
